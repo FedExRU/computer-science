@@ -1,0 +1,22 @@
+{
+  "name": "kobezza.homework",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "P.A Uryadyshev",
+  "license": "ISC",
+  "description": "Computer science in frontend course. Homework",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@typescript-eslint/eslint-plugin": "6.11.0",
+    "eslint": "^8",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-plugin-prettier": "5.0.1",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
+}
